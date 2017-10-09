@@ -10,6 +10,8 @@ Proudly Microsoft-free at home, but diplomatically Microsoft-friendly in the off
 
 Twelve years experience with Ubutu/Debian and RHEL/CentOS Linux.  I have experience with administration, configuration and setup of small and SOHO Linux installations.  
 
+![me](/assets/chawley.jpg){:style="float: right; height: 200px"}
+
 Experienced with managed hosting (inc. Plesk, cPanel) and server support in a data center environment. VMWare, HyperV, Ansible, firewalls, SSH, VPNs, server hardening, automation and shell (bash) scripting. 
 Adept at integrating Linux and Microsoft Windows servers in an Active Directory environment. Spent ten years as a Windows developer and assisted with Microsoft SQL Server Administration. 
 Experienced with ASP, VBA, VB.NET and windows scripting.  
