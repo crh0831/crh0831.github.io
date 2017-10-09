@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Ohio Linuxfest 2017"
-date: 2017-10-09
-
+date:  Mon 09 Oct 2017 01:52:05 PM EDT
+categories: article
 ---
 
 ## Some notes on Ohio Linuxfest 2017 - Sep 29-30 2017, Columbus, Ohio
